@@ -14,7 +14,7 @@ The **[CelebA Dataset](https://www.kaggle.com/datasets/jessicali9530/celeba-data
 
 - **Programming Language**: Python
 - **Frameworks and Libraries**: TensorFlow, Keras, NumPy, Matplotlib
-- **Tools**: Jupyter Notebook, Kaggle
+- **Tools**: Jupyter Notebook
 
 ## Project Features
 
